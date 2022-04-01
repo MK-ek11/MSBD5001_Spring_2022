@@ -1,5 +1,5 @@
-# MSBD5001_Spring_2022
-MSBD5001-Spring 2022 Kaggle Competition
+# Spring_2022
+Spring 2022 Kaggle Competition
 
 ## Description
 Kidney transplantation is the optimal treatment to cure patients with end-stage renal disease (ESRD). However, infectious complication, especially pneumonia, is the main cause of mortality in the early stage. In this in-class competition, we aimed to study the association between collected patient immune status features during immune monitoring and pneumonia in kidney transplant patients through machine learning models.
