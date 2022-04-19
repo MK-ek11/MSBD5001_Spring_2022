@@ -1,3 +1,4 @@
 # Spring_2022
-Spring 2022 Kaggle Competition
+Spring 2022 Individual Project
+
 
