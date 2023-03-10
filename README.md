@@ -2,6 +2,7 @@
 Spring 2022 Individual Project
 
 Kaggle Competition Link: https://www.kaggle.com/competitions/msbd5001-spring-2022/overview
+
 Kaggle Competition Team Name = mk11hkust
 
 Instructions:
